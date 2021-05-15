@@ -1,0 +1,30 @@
+D:\1.УЧЕБА\ТИ\лаб3\TI3\bin\Debug\netcoreapp3.1\TI3.exe
+D:\1.УЧЕБА\ТИ\лаб3\TI3\bin\Debug\netcoreapp3.1\TI3.deps.json
+D:\1.УЧЕБА\ТИ\лаб3\TI3\bin\Debug\netcoreapp3.1\TI3.runtimeconfig.json
+D:\1.УЧЕБА\ТИ\лаб3\TI3\bin\Debug\netcoreapp3.1\TI3.runtimeconfig.dev.json
+D:\1.УЧЕБА\ТИ\лаб3\TI3\bin\Debug\netcoreapp3.1\TI3.dll
+D:\1.УЧЕБА\ТИ\лаб3\TI3\bin\Debug\netcoreapp3.1\TI3.pdb
+D:\1.УЧЕБА\ТИ\лаб3\TI3\obj\Debug\netcoreapp3.1\TI3.csprojAssemblyReference.cache
+D:\1.УЧЕБА\ТИ\лаб3\TI3\obj\Debug\netcoreapp3.1\TI3.Form1.resources
+D:\1.УЧЕБА\ТИ\лаб3\TI3\obj\Debug\netcoreapp3.1\TI3.csproj.GenerateResource.cache
+D:\1.УЧЕБА\ТИ\лаб3\TI3\obj\Debug\netcoreapp3.1\TI3.AssemblyInfoInputs.cache
+D:\1.УЧЕБА\ТИ\лаб3\TI3\obj\Debug\netcoreapp3.1\TI3.AssemblyInfo.cs
+D:\1.УЧЕБА\ТИ\лаб3\TI3\obj\Debug\netcoreapp3.1\TI3.csproj.CoreCompileInputs.cache
+D:\1.УЧЕБА\ТИ\лаб3\TI3\obj\Debug\netcoreapp3.1\TI3.dll
+D:\1.УЧЕБА\ТИ\лаб3\TI3\obj\Debug\netcoreapp3.1\TI3.pdb
+D:\1.УЧЕБА\ТИ\лаб3\TI3\obj\Debug\netcoreapp3.1\TI3.genruntimeconfig.cache
+C:\Users\meshc\OneDrive\Рабочий стол\Саня\TI_lab3\bin\Debug\netcoreapp3.1\TI3.exe
+C:\Users\meshc\OneDrive\Рабочий стол\Саня\TI_lab3\bin\Debug\netcoreapp3.1\TI3.deps.json
+C:\Users\meshc\OneDrive\Рабочий стол\Саня\TI_lab3\bin\Debug\netcoreapp3.1\TI3.runtimeconfig.json
+C:\Users\meshc\OneDrive\Рабочий стол\Саня\TI_lab3\bin\Debug\netcoreapp3.1\TI3.runtimeconfig.dev.json
+C:\Users\meshc\OneDrive\Рабочий стол\Саня\TI_lab3\bin\Debug\netcoreapp3.1\TI3.dll
+C:\Users\meshc\OneDrive\Рабочий стол\Саня\TI_lab3\bin\Debug\netcoreapp3.1\TI3.pdb
+C:\Users\meshc\OneDrive\Рабочий стол\Саня\TI_lab3\obj\Debug\netcoreapp3.1\TI3.csprojAssemblyReference.cache
+C:\Users\meshc\OneDrive\Рабочий стол\Саня\TI_lab3\obj\Debug\netcoreapp3.1\TI3.Form1.resources
+C:\Users\meshc\OneDrive\Рабочий стол\Саня\TI_lab3\obj\Debug\netcoreapp3.1\TI3.csproj.GenerateResource.cache
+C:\Users\meshc\OneDrive\Рабочий стол\Саня\TI_lab3\obj\Debug\netcoreapp3.1\TI3.AssemblyInfoInputs.cache
+C:\Users\meshc\OneDrive\Рабочий стол\Саня\TI_lab3\obj\Debug\netcoreapp3.1\TI3.AssemblyInfo.cs
+C:\Users\meshc\OneDrive\Рабочий стол\Саня\TI_lab3\obj\Debug\netcoreapp3.1\TI3.csproj.CoreCompileInputs.cache
+C:\Users\meshc\OneDrive\Рабочий стол\Саня\TI_lab3\obj\Debug\netcoreapp3.1\TI3.dll
+C:\Users\meshc\OneDrive\Рабочий стол\Саня\TI_lab3\obj\Debug\netcoreapp3.1\TI3.pdb
+C:\Users\meshc\OneDrive\Рабочий стол\Саня\TI_lab3\obj\Debug\netcoreapp3.1\TI3.genruntimeconfig.cache
